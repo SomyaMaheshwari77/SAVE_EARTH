@@ -4,7 +4,7 @@
   <head>
 	<title>ABOUT SPECIES</title>
   </head>
-  <body background ="https://th.bing.com/th/id/Re16df4094e5f5e1f034d70e4f0599756?rik=OpUEjIZoNqDVNA&riu=http%3a%2f%2fstatic8.depositphotos.com%2f1439758%2f1013%2fv%2f950%2fdepositphotos_10132420-stock-illustration-grunge-background-with-african-fauna.jpg&ehk=9CIK8MJExr3MuhNlseeGxWEFdgqBGBv3EV%2fhLfcYkSs%3d&risl=&pid=ImgRaw">
+  <body background="https://th.bing.com/th/id/Re16df4094e5f5e1f034d70e4f0599756?rik=OpUEjIZoNqDVNA&riu=http%3a%2f%2fstatic8.depositphotos.com%2f1439758%2f1013%2fv%2f950%2fdepositphotos_10132420-stock-illustration-grunge-background-with-african-fauna.jpg&ehk=9CIK8MJExr3MuhNlseeGxWEFdgqBGBv3EV%2fhLfcYkSs%3d&risl=&pid=ImgRaw">
 <font face="lucida handwriting" color="black" size="100"><center> !!SAVE EARTH!!
   </center></font>
   <center> <img src="https://th.bing.com/th/id/R22262208a012b98e17e8542bac57d28a?rik=yCfQUJmh6YIn6w&riu=http%3a%2f%2fa1.s6img.com%2fcdn%2f0007%2fp%2f1166052_1859116_lz.jpg&ehk=KL8GilILcsRLVua%2fAVg0qU2zN%2fgmY0Ww1scx%2fXR0bF4%3d&risl=&pid=ImgRaw" width="300" height="350"></center>  
