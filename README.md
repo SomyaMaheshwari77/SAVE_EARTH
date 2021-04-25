@@ -12,7 +12,7 @@
   </center></font>
   <marquee behavior="alternate" direction="left" scrolldelay="0" >
      <img src="C:\Users\somia. kaetik\Desktop\college\AA.jpg" width="300" height="350">  
-    <img src="C:\Users\somia. kaetik\Desktop\college\BB.jpg" width="300" height="350">
+    <img src="https://th.bing.com/th/id/OIP.BPx0hg3IkcYQrEjQ5Rpc8wHaFj?w=249&h=187&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
     <img src="C:\Users\somia. kaetik\Desktop\college\CC.jpg" width="300" height="350">
    <img src="C:\Users\somia. kaetik\Desktop\college\DD.jpg" width="300" height="350">
     <img src="C:\Users\somia. kaetik\Desktop\college\EE.jpg" width="300" height="350">
