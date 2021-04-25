@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ABOUT SPECIES</title>
 </head>
 <body background="https://th.bing.com/th/id/Re16df4094e5f5e1f034d70e4f0599756?rik=OpUEjIZoNqDVNA&riu=http%3a%2f%2fstatic8.depositphotos.com%2f1439758%2f1013%2fv%2f950%2fdepositphotos_10132420-stock-illustration-grunge-background-with-african-fauna.jpg&ehk=9CIK8MJExr3MuhNlseeGxWEFdgqBGBv3EV%2fhLfcYkSs%3d&risl=&pid=ImgRaw">
 <font face="lucida handwriting" color="black" size="100"><center> !!SAVE EARTH!!
