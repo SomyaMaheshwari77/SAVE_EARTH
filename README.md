@@ -86,35 +86,35 @@
  </table>
  <br><br>
  <br><br>
- <font face="Bradley Hand ITC" color="black" size="6"><b> 
+<font face="Bradley Hand ITC" color="black" size="6"><b> 
    Our difficulty is that we have became autistic. We no longer listen to what the Earth, its landscape,its atmospheric phenomena and
    all its living forms, its mountains and valeys, the rain, and all the flora and fauna of the planet are telling us.!!
- </b></font>
- <br><br>
- <center>
- <font face="Segoe Script" color="blue" size="7">Enadangered flora:</font>
- <ul type= square><font face="Pristina" size="6">
+</b></font>
+<br><br>
+<center>
+<font face="Segoe Script" color="blue" size="7">Enadangered flora:</font>
+<ul type= square><font face="Pristina" size="6">
 	<center> click to know more!</center>
 	<li><a href="https://en.m.wikipedia.org/wiki/Rhizanthella_gardneri">Wertern Underground Orchid</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Pitcher_plant">Pitcher Plant</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Medusagyne">Jellyfish Tree</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Amorphophallus_titanum">Corpse Flower</a></li>
 	<li><a href="https://www.atlasobscura.com/places/wood-s-cycad">Wood's Cycad</a></li>
- </ul></font>
- <font face="Segoe Script" color="blue" size="7">Enadangered fauna:</font>
- <ul type=square><font face="Pristina" size="6">
+</ul></font>
+<font face="Segoe Script" color="blue" size="7">Enadangered fauna:</font>
+<ul type=square><font face="Pristina" size="6">
 	<center> click to know more!</center>
 	<li><a href="https://en.m.wikipedia.org/wiki/Gaint_panda">Gaint Panda</a></li>
 	<li><a href="https://www.worldwildlife.org/species/tiger">Tiger</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Whooping_crane">Whooping Crane</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Blue_whale">Blue Whale</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Asian_elephant">Asian Elephant</a></li>
- </ul></font>
- <br><br>
- <font face="Bradley Hand ITC" color="black" size="6"><b> 
+</ul></font>
+<br><br>
+<font face="Bradley Hand ITC" color="black" size="6"><b> 
  Our difficulty is that we have became autistic. We no longer listen to what the Earth, its landscape,its atmospheric phenomena and
  all its living forms, its mountains and valeys, the rain, and all the flora and fauna of the planet are telling us.!!
- </b></font>
- </center>
- </body>
- </html>
+</b></font>
+</center>
+</body>
+</html>
