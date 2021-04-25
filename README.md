@@ -1,5 +1,4 @@
 # SAVE_EARTH
-<!DOCTYPE html>
 <html>
 <head>
 </head>
