@@ -85,6 +85,7 @@
  </tr>
  </table>
  <br><br>
+ <br><br>
  <font face="Bradley Hand ITC" color="black" size="6"><b> 
    Our difficulty is that we have became autistic. We no longer listen to what the Earth, its landscape,its atmospheric phenomena and
    all its living forms, its mountains and valeys, the rain, and all the flora and fauna of the planet are telling us.!!
