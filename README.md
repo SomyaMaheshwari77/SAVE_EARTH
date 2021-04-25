@@ -4,20 +4,20 @@
   <head>
 	<title>ABOUT SPECIES</title>
   </head>
-  <body background ="C:\Users\somia. kaetik\Desktop\college\OO.jpg">
+  <body background ="https://th.bing.com/th/id/Re16df4094e5f5e1f034d70e4f0599756?rik=OpUEjIZoNqDVNA&riu=http%3a%2f%2fstatic8.depositphotos.com%2f1439758%2f1013%2fv%2f950%2fdepositphotos_10132420-stock-illustration-grunge-background-with-african-fauna.jpg&ehk=9CIK8MJExr3MuhNlseeGxWEFdgqBGBv3EV%2fhLfcYkSs%3d&risl=&pid=ImgRaw">
 <font face="lucida handwriting" color="black" size="100"><center> !!SAVE EARTH!!
   </center></font>
-  <center> <img src="C:\Users\somia. kaetik\Desktop\college\NN.jpg" width="300" height="350"></center>  
+  <center> <img src="https://th.bing.com/th/id/R22262208a012b98e17e8542bac57d28a?rik=yCfQUJmh6YIn6w&riu=http%3a%2f%2fa1.s6img.com%2fcdn%2f0007%2fp%2f1166052_1859116_lz.jpg&ehk=KL8GilILcsRLVua%2fAVg0qU2zN%2fgmY0Ww1scx%2fXR0bF4%3d&risl=&pid=ImgRaw" width="300" height="350"></center>  
   <font face="lucida handwriting" color="black" size="100"><center> !!KNOW YOUR SPECIES!!
   </center></font>
   <marquee behavior="alternate" direction="left" scrolldelay="0" >
-     <img src="C:\Users\somia. kaetik\Desktop\college\AA.jpg" width="300" height="350">  
+     <img src="https://th.bing.com/th/id/OIP.W-B2ut0ZVfa5uVrEXbrWtAHaDt?w=295&h=175&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">  
     <img src="https://th.bing.com/th/id/OIP.BPx0hg3IkcYQrEjQ5Rpc8wHaFj?w=249&h=187&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
-    <img src="C:\Users\somia. kaetik\Desktop\college\CC.jpg" width="300" height="350">
-   <img src="C:\Users\somia. kaetik\Desktop\college\DD.jpg" width="300" height="350">
-    <img src="C:\Users\somia. kaetik\Desktop\college\EE.jpg" width="300" height="350">
-    <img src="C:\Users\somia. kaetik\Desktop\college\FF.jpg" width="300" height="350">
-    <img src="C:\Users\somia. kaetik\Desktop\college\GG.jpg" width="300" height="350">
+    <img src="https://th.bing.com/th/id/OIP.RzKEX6MreE8h0wbDR6jptQHaE7?w=272&h=181&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
+   <img src="https://th.bing.com/th/id/OIP.imVeeO2Q_oYg8ZTnyWN6bQHaFs?w=236&h=181&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
+    <img src="https://th.bing.com/th/id/OIP.79WYX31LsgylGHA5NJ-T_gHaFj?w=240&h=181&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
+    <img src="https://th.bing.com/th/id/OIP.VCZazrY403wOl8mPBNUtJQHaFS?w=252&h=181&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
+    <img src="https://th.bing.com/th/id/OIP.qbXczwbwSlffZxjiUMjsqQHaEo?w=290&h=181&c=7&o=5&dpr=1.25&pid=1.7" width="300" height="350">
    </marquee>
   <font face="Bradley Hand ITC" color="blue" size="6"><b><u> "WE`D RATHER ENJOY THE MONEY,
   BE BURIED,OFFERING OUR BODY BACK TO THE FLORA NAD FAUNA OF WHICH WE HAVE DINED OUR WHOLE LIFE!!!"
